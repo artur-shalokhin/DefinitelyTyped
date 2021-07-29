@@ -653,3 +653,5 @@ export const Chess: {
      */
     new (fen?: string): ChessInstance;
 };
+
+export default Chess;
